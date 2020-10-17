@@ -15,6 +15,7 @@ In this lesson, we'll discuss integration testing with Capybara.
 
 ## The MVC Framework
 
+
 There are three basic levels of testing that correspond to the different levels
 of our application stack in Model-View-Controller architecture.
 
