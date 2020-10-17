@@ -17,6 +17,7 @@ describe "POST '/greet' - User Greeting" do
   end
 end
   # New test
+  
   it 'has a greeting form with a user_name field' do
     visit '/'
 
