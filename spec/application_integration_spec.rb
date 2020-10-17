@@ -16,8 +16,8 @@ describe "POST '/greet' - User Greeting" do
     expect(page).to have_text("Hi Avi, nice to meet you!")
   end
 end
-  # New test
-  
+  #New test
+
   it 'has a greeting form with a user_name field' do
     visit '/'
 
